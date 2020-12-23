@@ -35,7 +35,6 @@ body {
     overflow: hidden;
     border: 2px solid #000000;
     transition: .5s ease-out;
-
 }
 
 .container .skill:hover {
